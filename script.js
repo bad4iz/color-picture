@@ -1,7 +1,15 @@
 const img = document.querySelector('#img');
-img.addEventListener('load', processing);
 
-function processing() {
+// const img = new Image(100, 200);
+// img.src = 'assets/two.jpeg';
+img.addEventListener('load', load);
+// document.body.appendChild(myImage);
+
+function load(event) {
+    processing(event.target)
+}
+
+function processing(img) {
     const canvas = document.createElement('canvas');
     canvas.width = 100 ;
     canvas.height = 100;
