@@ -1,6 +1,6 @@
 import processing from "./processing";
 
-export default function getAverageRGBA(imgSource) {
+function getAverageRGBA(imgSource) {
     switch (typeof imgSource) {
         case "object":
             return processing(imgSource);
@@ -17,3 +17,5 @@ function string(src) {
     img.src = src;
     img.addEventListener('load', ()=>processing(img));
 }
+
+export { getAverageRGBA };

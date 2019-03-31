@@ -15,7 +15,7 @@ npm i --save color-picture
 
 use
 ```javascript
-import getAverageRGBA from "color-picture";
+import { getAverageRGBA } from "color-picture";
 
 
 const img = document.querySelector('img');
