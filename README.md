@@ -1,5 +1,6 @@
 # get average color by image
 [demo](https://bad4iz.github.io/demo-color-picture/)
+[npm](https://www.npmjs.com/package/color-picture)
 
 --- 
 install
