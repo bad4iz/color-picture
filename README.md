@@ -1,4 +1,9 @@
 # get average color by image
+
+![](https://travis-ci.org/bad4iz/demo-color-picture.svg?branch=master)
+![](https://img.shields.io/npm/v/color-picture.svg)
+
+
 [demo](https://bad4iz.github.io/demo-color-picture/)  
 [npm package](https://www.npmjs.com/package/color-picture)
 
