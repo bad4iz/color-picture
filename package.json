@@ -1,6 +1,6 @@
 {
   "name": "color-picture",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "average image color",
   "main": "index.js",
   "scripts": {
