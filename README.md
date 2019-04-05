@@ -4,6 +4,9 @@
 ![](https://img.shields.io/npm/v/color-picture.svg)
 ![](https://img.shields.io/npm/dt/color-picture.svg)
 
+![](https://img.shields.io/npm/l/color-picture.svg)
+
+
 [demo](https://bad4iz.github.io/demo-color-picture/)  
 [npm package](https://www.npmjs.com/package/color-picture)
 
