@@ -13,7 +13,7 @@ install:
 before_deploy: "echo 'ready?'"
 deploy:
   provider: npm
-  email: "YOUR_EMAIL_ADDRESS"
-  api_key: "YOUR_AUTH_TOKEN"
+  email: $YOUR_EMAIL_ADDRESS
+  api_key: $YOUR_AUTH_TOKEN
   on:
     branch: master
